@@ -4,16 +4,16 @@
 winexe
 VB
 .vb
-\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\server\playerServer2\obj\Debug\
 playerServer2
 none
 false
 
-\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\Application.xaml
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\server\playerServer2\Application.xaml
 2-649523810
 
-8-915653943
-12323756935
+8-1760348896
+121917797695
 MainWindow.xaml;SettingsWindow.xaml;
 
 True
