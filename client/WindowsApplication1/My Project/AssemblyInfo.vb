@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Vérifiez les valeurs des attributs de l'assembly
 
-<Assembly: AssemblyTitle("WindowsApplication1")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Microsoft")>
-<Assembly: AssemblyProduct("WindowsApplication1")>
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2016")>
+<Assembly: AssemblyTitle("EpiPlayer")>
+<Assembly: AssemblyDescription("This player is an Epitech Project developped by Nicolas Charvoz, Joris Bertomeu and Louis Audibert")>
+<Assembly: AssemblyCompany("Epitech")>
+<Assembly: AssemblyProduct("EpiPlayer")>
+<Assembly: AssemblyCopyright("Copyright © Epitech 2016")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>

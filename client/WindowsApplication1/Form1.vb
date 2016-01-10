@@ -34,4 +34,9 @@
         Dim Win As Dialog1 = New Dialog1()
         Win.Show()
     End Sub
+
+    Private Sub About_Click(sender As Object, e As EventArgs) Handles About.Click
+        Dim Win As AboutBox1 = New AboutBox1()
+        Win.Show()
+    End Sub
 End Class
