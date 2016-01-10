@@ -111,8 +111,8 @@ Class MainWindow
                     Dim dra As IO.FileInfo
                     content = ""
                     For Each dra In diar1
-                        content += dra.ToString() + "\n"
-                    Next
+                    content += dra.ToString() + ":"
+                Next
                     Dim byteData = Encoding.ASCII.GetBytes(content)
                     handler.BeginSend(byteData, 0, byteData.Length, 0, New AsyncCallback(AddressOf SendCallback), handler)
                 ElseIf (content.StartsWith("getFile")) Then

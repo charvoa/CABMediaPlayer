@@ -32,4 +32,22 @@ C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\Windo
 C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
 C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
 C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
-C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Resource1.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\rendu\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Resource1.resources
