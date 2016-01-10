@@ -1,0 +1,36 @@
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\bin\Debug\playerServer2.exe.config
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\bin\Debug\playerServer2.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\bin\Debug\playerServer2.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\bin\Debug\playerServer2.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.vbprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\MainWindow.g.vb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\Application.g.vb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2_MarkupCompile.cache
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2_MarkupCompile.lref
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\MainWindow.baml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.g.resources
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.Resources.resources
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.vbproj.GenerateResource.Cache
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.exe
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.xml
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\playerServer2.pdb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\SettingsWindow.g.vb
+\\vmware-host\shared folders\documents\visual studio 2015\Projects\playerServer2\playerServer2\obj\Debug\SettingsWindow.baml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\bin\Debug\playerServer2.exe.config
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.exe
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.xml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.pdb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\bin\Debug\playerServer2.exe
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\bin\Debug\playerServer2.pdb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\bin\Debug\playerServer2.xml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\MainWindow.g.vb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\SettingsWindow.g.vb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\Application.g.vb
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2_MarkupCompile.cache
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2_MarkupCompile.lref
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\SettingsWindow.baml
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.g.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.Resources.resources
+\\Mac\Home\Documents\rendu\CABMediaPlayer\server\playerServer2\obj\Debug\playerServer2.vbproj.GenerateResource.Cache

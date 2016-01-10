@@ -5,28 +5,6 @@ Imports System.Net.Sockets
 
 Public Class Dialog1
 
-    <Runtime.CompilerServices.Extension()>
-    Public Sub RemoveAt(Of T)(ByRef arr As T(), ByVal index As Integer)
-        Dim uBound = arr.GetUpperBound(0)
-        Dim lBound = arr.GetLowerBound(0)
-        Dim arrLen = uBound - lBound
-
-        If index < lBound OrElse index > uBound Then
-            Throw New ArgumentOutOfRangeException(
-        String.Format("Index must be from {0} to {1}.", lBound, uBound))
-
-        Else
-            'create an array 1 element less than the input array
-            Dim outArr(arrLen - 1) As T
-            'copy the first part of the input array
-            Array.Copy(arr, 0, outArr, 0, index)
-            'then copy the second part of the input array
-            Array.Copy(arr, index + 1, outArr, index, uBound - index)
-
-            arr = outArr
-        End If
-    End Sub
-
     Private Sub OK_Button_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK_Button.Click
         Me.DialogResult = System.Windows.Forms.DialogResult.OK
         Dim port As Integer
@@ -37,10 +15,10 @@ Public Class Dialog1
             'port = TextBoxPort.Text()
             'ipAddr = TextBoxIP.Text()
             port = 4242
-            ipAddr = "10.16.252.189"
+            ipAddr = "127.0.0.1"
             Console.WriteLine(ipAddr)
             Console.WriteLine(port)
-            client = New TcpClient(ipAddr, port)
+            client = New TcpClient(ipAddr.ToString, port)
             Dim stream As NetworkStream
             stream = client.GetStream
 
@@ -57,7 +35,6 @@ Public Class Dialog1
             If bytesRead > 0 Then
                 Console.Write(bytesRead)
                 Dim arrayFiles() As String = Split(System.Text.Encoding.ASCII.GetString(buffer, 0, bytesRead), ":")
-                RemoveAt(arrayFiles, arrayFiles.Length - 1)
                 Dim result As New System.Text.StringBuilder
                 Dim counter As Integer
 
