@@ -14,3 +14,20 @@
 \\vmware-host\shared folders\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
 \\vmware-host\shared folders\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
 \\vmware-host\shared folders\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Louis\Documents\Visual Studio 2015\Projects\CABMediaPlayer\client\WindowsApplication1\obj\Debug\WindowsApplication1.Dialog1.resources

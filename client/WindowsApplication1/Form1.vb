@@ -29,4 +29,9 @@
         AxWindowsMediaPlayer1.Ctlcontrols.play()
         'AxWindowsMediaPlayer1.play
     End Sub
+
+    Private Sub SelectServerToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SelectServerToolStripMenuItem.Click
+        Dim Win As Dialog1 = New Dialog1()
+        Win.Show()
+    End Sub
 End Class

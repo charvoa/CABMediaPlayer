@@ -29,8 +29,7 @@ Partial Class Form1
         Me.ToolStripDropDownButton1 = New System.Windows.Forms.ToolStripDropDownButton()
         Me.OpenToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
-        Me.NewToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.PlaylistToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.SelectServerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStrip1.SuspendLayout()
         CType(Me.AxWindowsMediaPlayer1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
@@ -72,7 +71,7 @@ Partial Class Form1
         'ToolStripDropDownButton1
         '
         Me.ToolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text
-        Me.ToolStripDropDownButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.NewToolStripMenuItem, Me.OpenToolStripMenuItem})
+        Me.ToolStripDropDownButton1.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OpenToolStripMenuItem, Me.SelectServerToolStripMenuItem})
         Me.ToolStripDropDownButton1.Image = CType(resources.GetObject("ToolStripDropDownButton1.Image"), System.Drawing.Image)
         Me.ToolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripDropDownButton1.Name = "ToolStripDropDownButton1"
@@ -89,18 +88,11 @@ Partial Class Form1
         '
         Me.OpenFileDialog1.FileName = "OpenFileDialog1"
         '
-        'NewToolStripMenuItem
+        'SelectServerToolStripMenuItem
         '
-        Me.NewToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PlaylistToolStripMenuItem})
-        Me.NewToolStripMenuItem.Name = "NewToolStripMenuItem"
-        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(181, 26)
-        Me.NewToolStripMenuItem.Text = "&New..."
-        '
-        'PlaylistToolStripMenuItem
-        '
-        Me.PlaylistToolStripMenuItem.Name = "PlaylistToolStripMenuItem"
-        Me.PlaylistToolStripMenuItem.Size = New System.Drawing.Size(181, 26)
-        Me.PlaylistToolStripMenuItem.Text = "&Playlist..."
+        Me.SelectServerToolStripMenuItem.Name = "SelectServerToolStripMenuItem"
+        Me.SelectServerToolStripMenuItem.Size = New System.Drawing.Size(181, 26)
+        Me.SelectServerToolStripMenuItem.Text = "&Select Server..."
         '
         'Form1
         '
@@ -127,6 +119,5 @@ Partial Class Form1
     Friend WithEvents ToolStripDropDownButton1 As ToolStripDropDownButton
     Friend WithEvents OpenToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents OpenFileDialog1 As OpenFileDialog
-    Friend WithEvents NewToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents PlaylistToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents SelectServerToolStripMenuItem As ToolStripMenuItem
 End Class
