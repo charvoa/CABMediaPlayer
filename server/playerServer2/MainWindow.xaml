@@ -1,0 +1,19 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:playerServer2"
+        mc:Ignorable="d"
+        Title="EpiPlayer" Height="127.903" Width="287.039">
+    <Grid>
+        <Label x:Name="statusLabel" Content="Stopped" HorizontalAlignment="Left" Margin="59,7,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Start Server" HorizontalAlignment="Left" Margin="18,38,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False"/>
+        <Label x:Name="label" Content="Status : " HorizontalAlignment="Left" Margin="7,7,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="?? file(s) found" HorizontalAlignment="Left" Margin="128,33,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="0 client(s) connected" HorizontalAlignment="Left" Margin="128,59,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1" Content="Configure" HorizontalAlignment="Left" Margin="18,65,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label1_Copy" Content="Not running ..." HorizontalAlignment="Left" Margin="128,7,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
